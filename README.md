@@ -1,1 +1,1 @@
-# CapCut-Ultra
+# CapCut-Ultra 23.0.0
